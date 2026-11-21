@@ -1,0 +1,12 @@
+#
+# This .gitignore is for a .NET and Visual Studio project.
+#
+
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.pdb
+publish/
+TestResults/
